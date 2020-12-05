@@ -6,3 +6,5 @@ En este primer acercamiento al lenguaje Python se trabajo con arreglos y recursi
 Se focalizo en el ordenamiento tipo burbuja, y su comparacion de eficiencia con otros metodos, y la busqueda binaria.
 
 <img src="images/ordBurbuja.jpg" width="500px" align="center"/>
+
+ACLARACION: Primero se realizo el trabajo en Colab de google y luego se paso a python, por lo que puede ser que el archivo ".py" no funcione como corresponde.
